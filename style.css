@@ -1,0 +1,17 @@
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin-left: 50%;
+    cursor: pointer;
+}
+.backgroundImage{
+    height: 500px;
+    width: 900px;
+    margin-left: 35%;
+}
+.dogeinput{
+    top: 5%;
+    margin-left: 35%;
+}
